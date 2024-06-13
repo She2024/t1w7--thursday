@@ -14,3 +14,8 @@
 - They are useful for membership testing, removing duplicates from a sequence, and mathmatical operations like union, intersectiona and difference.
 - Cannot access the elements using index operator []. Need to check if the elements exists in the set. 
 - Defined by enclosing elements in curly brackets{}. 
+
+## Dictionaries
+- Collection of key-value pairs, mutable.
+- Each key value is unique, and the keys are used to store and retrieve values.
+
